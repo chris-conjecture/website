@@ -2,7 +2,7 @@
     // List of random words
     const words = ['Serendipity', 'Cascade', 'Whisper', 'Luminous', 'Echo', 
         'Nebula', 'Zenith', 'Aurora', 'Breeze', 'Crystal', 'Enigma', 
-        'Harmony', 'Melody', 'Velvet', 'Dream'];
+        'Harmony', 'Melody', 'Velvet', 'Dream', 'Anarchy'];
     
     // Variable to store current word
     let currentWord = 'Click anywhere';

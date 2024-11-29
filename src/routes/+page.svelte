@@ -2,7 +2,8 @@
     // List of random words
     const words = ['Serendipity', 'Cascade', 'Whisper', 'Luminous', 'Echo', 
         'Nebula', 'Zenith', 'Aurora', 'Breeze', 'Crystal', 'Enigma', 
-        'Harmony', 'Melody', 'Velvet', 'Dream', 'Anarchy'];
+        'Harmony', 'Melody', 'Velvet', 'Dream', 'Anarchy'
+    ];
     
     // Variable to store current word
     let currentWord = 'Click anywhere';
@@ -25,6 +26,7 @@
         justify-content: center;
         align-items: center;
         cursor: pointer;
+        user-select: none; /* Add this line */
     }
 
     h1 {
